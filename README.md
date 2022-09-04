@@ -19,4 +19,5 @@ Fill in your "```Export Name```", and select "```CSV```" for "```Export Format``
 
 ### Run ```Satellite-image-download.ipynb``` and download data
 Before download form USGS EarthExplorer, you need to sign in with your account.\
-Follow the instruction that shows up while running. Fill in the CSV file path and your Username and Password, then continue running the next cells to download satellite images.
+Follow the instruction that shows up while running. Fill in the CSV file path and your Username and Password, then continue running the next cells to download satellite images.\
+![gif](Figure/operation.gif)
