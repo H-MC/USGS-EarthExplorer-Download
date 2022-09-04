@@ -2,7 +2,7 @@
 Download satellite data from EarthExplorer (especially for Sentinel-2 data)
 ## Auto Batch-Download Sentinel-2 Data
 
-### Install landsatxplore API
+### Install ```landsatxplore```
 Require ```python landsatxplorer``` package. You can just install by: 
 ```python
 pip install landsatxplore
